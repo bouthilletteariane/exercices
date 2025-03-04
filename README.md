@@ -33,17 +33,12 @@ Pour chacune des pages ci-dessous:
 * __Utiliser la barre d'outil de développement pour inspecter les images__ et juger de la qualité des attributs *alt*. __Prendre une capture-écran et la joindre ci-dessous.__
 *  __Les textes alternatifs sont-ils adéquats ?__ Commenter votre observation. Pourrait-on faire mieux ? Donnez un exemple de ce que vous proposeriez.
  
-[capture-écran-à-ajouter]()
-- https://www.lesoleil.com/  
------
------
------
-[capture-écran-à-ajouter]()
-- https://www.rad.ca/  
------
------
------ 
- 
+<img src="/images/1-textes-alternatifs/1-2/lesoleil.png">
+
+Selon moi, le site du Soleil offre des balises très complètes pour la grande majorité de leurs images sur le site.
+
+Cependant, il serait mieux d'ajouter une description 'alt' pour le logo du site. De cette façon, l'utilisateur pourrait savoir qu'il peut en tout temps appuyer sur le loog pour être redirigé vers la page d'accueil. 
+
  
 
 ### 2. Structurer avec les h1-h6 une table des matières
@@ -60,9 +55,7 @@ __Tutoriel sur les formulaires du w3c__
 
 Réponse : 
 
-----
-----
-----
+Cet article est complet au niveau de la table des matière. Les éléments H1 sont utiliser pour décrire les titre de l'artcile et la balise h2 est utiliser pour les autres sous-titres.
 
 __L’affaire Savtchenko__ 
 [Article](images/2-table-des-matieres_h1-h6/2-1/article-savtchenko.pdf)  
@@ -70,9 +63,9 @@ __L’affaire Savtchenko__
   
 Réponse : 
 
-----
-----
-----
+On note une première erreur au nvieau de la hiérarchie des balises. On ne retrouve pas de premier niveau H1, et ce qui débute la table des matières est un H2. 
+
+Également, certains H2 se retrouve à ne pas avoir la même nature au fil de l'article. Par exemple, on retrouve des H2 qui sont des paragraphes et des h2 qui sont des sous-titre du titre principal. 
 
 
 #### 2.2 S'exercer à bien structurer
