@@ -1,0 +1,96 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    margin: 20px 0;
+}
+
+/* Légende */
+caption {
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: #005a8d;
+    text-transform: uppercase;
+}
+
+/* En-têtes colonnes */
+th {
+    background-color: #f0f0f0;
+    color: #000;
+    padding: 10px;
+    border: 1px solid #ccc;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+}
+
+/* En-têtes rangées */
+th[scope="row"] {
+    background-color: #f0f0f0;
+    text-align: left;
+    font-weight: bold;
+    vertical-align: top;
+}
+
+/* Cellules normales */
+td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    vertical-align: top;
+}
+
+/* Cellules de contenu avec fond rose */
+td.bg-pink {
+    background-color: #fce5e0;
+}
+
+/* Texte des cellules avec liste */
+ul {
+    padding-left: 20px;
+    margin: 0;
+}
+
+ul li {
+    margin-bottom: 5px;
+}
+
+/* Notes de bas de tableau */
+tfoot {
+    font-size: 12px;
+    font-style: italic;
+    color: #444;
+    padding-top: 5px;
+}
+
+tfoot td {
+    padding: 5px;
+    border-top: 1px solid #ccc;
+}
+
+/* Option : si tu veux forcer certaines colonnes à largeur égale */
+th, td {
+    width: auto;
+}
+
+/* Ajustement mobile */
+@media (max-width: 768px) {
+    table {
+        font-size: 12px;
+    }
+    th, td {
+        padding: 6px;
+    }
+}
+
+.bg-blanc {
+    background-color: white;
+    border: 0;
+}
+.texte {
+   text-align: center;
+   
+  
+}
