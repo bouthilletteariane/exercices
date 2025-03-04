@@ -74,7 +74,7 @@ On note une première erreur au nvieau de la hiérarchie des balises. On ne retr
 - Ajouter un calque de blanc à 50% de transparence
 - Dans un 3e calque, par-dessus, identifiez les titres et leurs niveaux (h1-h6) de manière voyante (couleur rouge et font-size suffisant)
 - Sauvegarder au format .png dans le même dossier.
-- [Relier ce fichier-réponse ici]()
+ <img src="/images/3-tableau-de-donnees/concevoir-un-design-sans-la-couleur.png">
 
 ### 3. Baliser un tableau de données pour qu’il soit accessible
 
